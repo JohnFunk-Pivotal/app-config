@@ -1,0 +1,4 @@
+message: hello, world (application.yml git)
+app:
+  generic:
+    prop: generic-value
